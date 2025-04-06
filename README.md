@@ -1,11 +1,3 @@
-### Sample UI Screenshot
-
-![Sample Screenshot](assets/screenshot-2025-04-06.png)
-
-This screenshot shows the main interface of the application, demonstrating its key features and layout.
-
----
-
 ### SETUP
 
 ![APP](imgs/app.png)
