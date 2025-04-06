@@ -10,7 +10,7 @@ The webhook was onboarded to the application to build a conversational workflow.
 
 A test phone number was added in both the sender and recipient fields. To send messages to any phone number, a WhatsApp Business Account is required. Hence, for this demo, my phone number was added in the recipient field.
 
-A FastAPI server was implemented to run locally and then tunneled using **ngrok** to expose it publicly. This allows the WhatsApp API manager to send webhook notifications to the server.
+A FastAPIAPI server was implemented to run locally and then tunneled using **ngrok** to expose it publicly. This allows the WhatsApp API manager to send webhook notifications to the server.
 
 #### Workflow Flow:
 ![Demo](imgs/demo.png)
